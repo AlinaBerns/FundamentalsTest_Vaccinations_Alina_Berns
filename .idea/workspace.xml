@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45f4f954-b7ab-4585-9f8c-970637974d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/BendingRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/CrazyRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/LiftingRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/Robot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/robot/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/robot/BendingRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/BendingRobot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
