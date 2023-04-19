@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45f4f954-b7ab-4585-9f8c-970637974d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FundamentalsTest_Vaccinations_Alina_Berns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/AnimalSchelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/Disease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/Monkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/Treatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/vaccinations/Vaccinateable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/BendingRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/CrazyRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/LiftingRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/robot/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="be.intecbrussel.vaccinations" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.be.intecbrussel.robot.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.intecbrussel.vaccinations.App" />
       <module name="FundamentalsTest_Vaccinations_Alina_Berns" />
@@ -72,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="be.intecbrussel.robot.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.robot.App" />
+      <module name="FundamentalsTest_Vaccinations_Alina_Berns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.be.intecbrussel.robot.App" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
