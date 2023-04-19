@@ -6,7 +6,6 @@ public class CrazyRobot extends Robot{
         System.out.println
                 ("*** " + new StringBuilder(getUnitName())
                         .reverse() + " is loading... ***");
-
     }
 
     //constructors
