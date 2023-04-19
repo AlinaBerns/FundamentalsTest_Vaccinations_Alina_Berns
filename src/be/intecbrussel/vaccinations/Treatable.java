@@ -1,2 +1,5 @@
-package be.intecbrussel.vaccinations;public interface Treatable {
+package be.intecbrussel.vaccinations;
+
+public interface Treatable {
+    void treatAnimal();
 }
